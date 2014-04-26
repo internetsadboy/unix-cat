@@ -1,5 +1,4 @@
 ## unix-cat
-
 unix-cat == console.log<br>
 cat() is less work than console.log()<br>
 this one is for the lazy cats
