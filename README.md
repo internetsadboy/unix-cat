@@ -10,9 +10,9 @@ this one is for the lazy cats
 
 ### usage
 ```javascript
-cat('hello world'); // => hello world
-cat([1,2,3]); // => [1,2,3]
-cat({key:'value'}); // => {key:'value'}
-cat(12345); // => 12345
-cat(1.2345); // => 1.2345
+cat('hello world'); // hello world
+cat([1,2,3]);       // [1,2,3]
+cat({key:'value'}); // {key:'value'}
+cat(12345);         // 12345
+cat(1.2345);        // 1.2345
 ``` 
