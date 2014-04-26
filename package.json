@@ -1,0 +1,23 @@
+{
+  "name": "unix-cat",
+  "version": "0.0.0",
+  "description": "cat() is less work than console.log()",
+  "main": "unix-cat.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "unix",
+    "cat",
+    "console.log",
+    "log",
+    "lazy",
+    "print"
+  ],
+  "author": "jared <jaredhalpert90@gmail.com> (http://jaredhalpert.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "colors":"*",
+    "tape":"*"
+  }
+}
